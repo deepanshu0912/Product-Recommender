@@ -1,0 +1,61 @@
+item_A_id,item_A_name,cat_A,item_B_id,item_B_name,cat_B,affinity_score,source
+105,Yellow Onion,Fresh Produce,303,Atlantic Salmon Fillet,Meat & Seafood,0.1344,embed
+103,Hass Avocado,Fresh Produce,603,Mild Salsa,Snacks,0.2318,embed
+103,Hass Avocado,Fresh Produce,403,Flour Tortillas (10 count),Bakery,0.2192,embed
+103,Hass Avocado,Fresh Produce,202,Sharp Cheddar Cheese (Block),Dairy & Eggs,0.2124,embed
+101,Organic Banana,Fresh Produce,703,Pulp-Free Orange Juice,Beverages,0.3438,embed
+101,Organic Banana,Fresh Produce,304,Classic Cut Bacon,Meat & Seafood,0.34,embed
+303,Atlantic Salmon Fillet,Meat & Seafood,105,Yellow Onion,Fresh Produce,0.1344,embed
+704,Cabernet Sauvignon,Beverages,501,Spaghetti Pasta,Pantry Staples,0.1426,embed
+801,Paper Towels (6 rolls),Household,703,Pulp-Free Orange Juice,Beverages,0.3607,embed
+801,Paper Towels (6 rolls),Household,304,Classic Cut Bacon,Meat & Seafood,0.3597,embed
+201,Whole Milk (Gallon),Dairy & Eggs,701,Cola (12-pack),Beverages,0.1566,embed
+204,Grade A Large Eggs (Dozen),Dairy & Eggs,701,Cola (12-pack),Beverages,0.1587,embed
+109,Russet Potato,Fresh Produce,304,Classic Cut Bacon,Meat & Seafood,0.3319,embed
+109,Russet Potato,Fresh Produce,703,Pulp-Free Orange Juice,Beverages,0.3149,embed
+301,Boneless Skinless Chicken Breast,Meat & Seafood,703,Pulp-Free Orange Juice,Beverages,0.2121,embed
+401,Whole Wheat Bread,Bakery,504,All-Purpose Flour,Pantry Staples,0.1999,embed
+506,Basmati Rice,Pantry Staples,201,Whole Milk (Gallon),Dairy & Eggs,0.1394,embed
+104,Organic Carrots (1lb),Fresh Produce,201,Whole Milk (Gallon),Dairy & Eggs,0.1412,embed
+602,Dark Chocolate Bar,Snacks,304,Classic Cut Bacon,Meat & Seafood,0.2192,embed
+106,Garlic (Head),Fresh Produce,501,Spaghetti Pasta,Pantry Staples,0.1618,embed
+302,85% Lean Ground Beef,Meat & Seafood,103,Hass Avocado,Fresh Produce,0.191,embed
+501,Spaghetti Pasta,Pantry Staples,106,Garlic (Head),Fresh Produce,0.1618,embed
+502,Marinara Sauce,Pantry Staples,106,Garlic (Head),Fresh Produce,0.1374,embed
+202,Sharp Cheddar Cheese (Block),Dairy & Eggs,503,Extra Virgin Olive Oil,Pantry Staples,0.2417,embed
+202,Sharp Cheddar Cheese (Block),Dairy & Eggs,103,Hass Avocado,Fresh Produce,0.2124,embed
+107,Roma Tomato,Fresh Produce,601,Kettle-Cooked Potato Chips,Snacks,0.1652,embed
+108,Iceberg Lettuce,Fresh Produce,601,Kettle-Cooked Potato Chips,Snacks,0.1599,embed
+403,Flour Tortillas (10 count),Bakery,103,Hass Avocado,Fresh Produce,0.2192,embed
+403,Flour Tortillas (10 count),Bakery,503,Extra Virgin Olive Oil,Pantry Staples,0.2044,embed
+603,Mild Salsa,Snacks,103,Hass Avocado,Fresh Produce,0.2318,embed
+604,Tortilla Chips,Snacks,503,Extra Virgin Olive Oil,Pantry Staples,0.1975,embed
+701,Cola (12-pack),Beverages,205,Unsalted Butter,Dairy & Eggs,0.2119,embed
+304,Classic Cut Bacon,Meat & Seafood,801,Paper Towels (6 rolls),Household,0.3597,embed
+304,Classic Cut Bacon,Meat & Seafood,101,Organic Banana,Fresh Produce,0.34,embed
+304,Classic Cut Bacon,Meat & Seafood,109,Russet Potato,Fresh Produce,0.3319,embed
+304,Classic Cut Bacon,Meat & Seafood,505,Cane Sugar,Pantry Staples,0.2335,embed
+702,Spring Water (24-pack),Beverages,201,Whole Milk (Gallon),Dairy & Eggs,0.1493,embed
+205,Unsalted Butter,Dairy & Eggs,703,Pulp-Free Orange Juice,Beverages,0.2422,embed
+205,Unsalted Butter,Dairy & Eggs,601,Kettle-Cooked Potato Chips,Snacks,0.2131,embed
+205,Unsalted Butter,Dairy & Eggs,701,Cola (12-pack),Beverages,0.2119,embed
+205,Unsalted Butter,Dairy & Eggs,304,Classic Cut Bacon,Meat & Seafood,0.2111,embed
+102,Granny Smith Apple,Fresh Produce,204,Grade A Large Eggs (Dozen),Dairy & Eggs,0.1435,embed
+601,Kettle-Cooked Potato Chips,Snacks,205,Unsalted Butter,Dairy & Eggs,0.2131,embed
+601,Kettle-Cooked Potato Chips,Snacks,505,Cane Sugar,Pantry Staples,0.2094,embed
+703,Pulp-Free Orange Juice,Beverages,801,Paper Towels (6 rolls),Household,0.3607,embed
+703,Pulp-Free Orange Juice,Beverages,101,Organic Banana,Fresh Produce,0.3438,embed
+703,Pulp-Free Orange Juice,Beverages,109,Russet Potato,Fresh Produce,0.3149,embed
+703,Pulp-Free Orange Juice,Beverages,205,Unsalted Butter,Dairy & Eggs,0.2422,embed
+703,Pulp-Free Orange Juice,Beverages,505,Cane Sugar,Pantry Staples,0.2287,embed
+402,Sourdough Baguette,Bakery,204,Grade A Large Eggs (Dozen),Dairy & Eggs,0.1523,embed
+802,Dish Soap,Household,204,Grade A Large Eggs (Dozen),Dairy & Eggs,0.1532,embed
+503,Extra Virgin Olive Oil,Pantry Staples,202,Sharp Cheddar Cheese (Block),Dairy & Eggs,0.2417,embed
+503,Extra Virgin Olive Oil,Pantry Staples,403,Flour Tortillas (10 count),Bakery,0.2044,embed
+504,All-Purpose Flour,Pantry Staples,703,Pulp-Free Orange Juice,Beverages,0.2168,embed
+504,All-Purpose Flour,Pantry Staples,304,Classic Cut Bacon,Meat & Seafood,0.2015,embed
+505,Cane Sugar,Pantry Staples,304,Classic Cut Bacon,Meat & Seafood,0.2335,embed
+505,Cane Sugar,Pantry Staples,703,Pulp-Free Orange Juice,Beverages,0.2287,embed
+505,Cane Sugar,Pantry Staples,601,Kettle-Cooked Potato Chips,Snacks,0.2094,embed
+110,Lemon,Fresh Produce,204,Grade A Large Eggs (Dozen),Dairy & Eggs,0.1362,embed
+203,Greek Yogurt (Plain),Dairy & Eggs,201,Whole Milk (Gallon),Dairy & Eggs,0.137,embed
